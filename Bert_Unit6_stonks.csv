@@ -1,0 +1,56 @@
+Category	Item	Edmonton	London
+Restaurants	"Meal, Inexpensive Restaurant"	20	16
+Restaurants	"Meal for 2 People, Mid-range Restaurant, Three-course"	80	80
+Restaurants	McMeal at McDonalds (or Equivalent Combo Meal)	10.2	12
+Restaurants	Domestic Beer (0.5 liter draught)	6	6
+Restaurants	Imported Beer (0.33 liter bottle)	7.5	8
+Restaurants	Cappuccino (regular)	4.54	4.45
+Restaurants	Coke/Pepsi (0.33 liter bottle)	2.15	2.38
+Restaurants	Water (0.33 liter bottle)	1.89	1.88
+Markets	"Milk (regular), (1 liter)"	2.24	2.6
+Markets	Loaf of Fresh White Bread (500g)	2.68	2.69
+Markets	"Rice (white), (1kg)"	3.93	2.92
+Markets	Eggs (regular) (12)	3.67	2.7
+Markets	Local Cheese (1kg)	10.66	12.13
+Markets	Chicken Fillets (1kg)	12.22	11.67
+Markets	Beef Round (1kg) (or Equivalent Back Leg Red Meat)	14.71	15.69
+Markets	Apples (1kg)	3.93	3.88
+Markets	Banana (1kg)	1.85	1.46
+Markets	Oranges (1kg)	4.04	3.1
+Markets	Tomato (1kg)	3.84	4.81
+Markets	Potato (1kg)	3.72	2.48
+Markets	Onion (1kg)	2.77	2.29
+Markets	Lettuce (1 head)	2.49	2.48
+Markets	Water (1.5 liter bottle)	2.5	1.91
+Markets	Bottle of Wine (Mid-Range)	16	15
+Markets	Domestic Beer (0.5 liter bottle)	3.55	3.28
+Markets	Imported Beer (0.33 liter bottle)	3.73	3.47
+Markets	Cigarettes 20 Pack (Marlboro)	15	13.75
+Transportation	One-way Ticket (Local Transport)	3.5	3
+Transportation	Monthly Pass (Regular Price)	97.5	88
+Transportation	Taxi Start (Normal Tariff)	3.83	4
+Transportation	Taxi 1km (Normal Tariff)	1.65	2.48
+Transportation	Taxi 1hour Waiting (Normal Tariff)	30	35
+Transportation	Gasoline (1 liter)	0.98	1.1
+Transportation	Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)	25000	28500
+Transportation	Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car)	25246.74	24715.31
+Utilities (Monthly)	"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment"	224.75	150.55
+Utilities (Monthly)	1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)	0.31	0.33
+Utilities (Monthly)	"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)"	90.19	74
+Sports And Leisure	"Fitness Club, Monthly Fee for 1 Adult"	55.45	43.58
+Sports And Leisure	Tennis Court Rent (1 Hour on Weekend)	18.22	32.86
+Sports And Leisure	"Cinema, International Release, 1 Seat"	15	14
+Childcare	"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child"	1027.89	1066.57
+Childcare	"International Primary School, Yearly for 1 Child"	8892	15250
+Clothing And Shoes	1 Pair of Jeans (Levis 501 Or Similar)	65.17	54.67
+Clothing And Shoes	"1 Summer Dress in a Chain Store (Zara, H&M, ...)"	45.68	43.75
+Clothing And Shoes	1 Pair of Nike Running Shoes (Mid-Range)	107.97	99.84
+Clothing And Shoes	1 Pair of Men Leather Business Shoes	125.13	117.33
+Rent Per Month	Apartment (1 bedroom) in City Centre	1155.55	1356.67
+Rent Per Month	Apartment (1 bedroom) Outside of Centre	982.28	1116.74
+Rent Per Month	Apartment (3 bedrooms) in City Centre	1747	2188.24
+Rent Per Month	Apartment (3 bedrooms) Outside of Centre	1505.67	1770.88
+Buy Apartment Price	Price per Square Meter to Buy Apartment in City Centre	3560.14	3761.09
+Buy Apartment Price	Price per Square Meter to Buy Apartment Outside of Centre	2553.36	3292.77
+Salaries And Financing	Average Monthly Net Salary (After Tax)	3969.53	4045.41
+`			
